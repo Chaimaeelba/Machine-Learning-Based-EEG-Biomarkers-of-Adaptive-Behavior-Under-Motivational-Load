@@ -1,18 +1,18 @@
 # Machine Learning-Based EEG Biomarkers of Adaptive Behavior Under Motivational Load
 
-## 🧠 Overview
+##  Overview
 
 This project develops machine learning-based EEG biomarkers to analyze cognitive flexibility under motivational load. We employ an innovative dual-task paradigm combining probabilistic reversal learning with auditory oddball detection to study behavioral adaptation in dynamic environments.
 
 ---
 
-## 🎯 Study Objective
+##  Study Objective
 
 This research aims to *develop and validate EEG biomarkers to characterize cognitive flexibility under motivational load* using machine learning approaches. The study examines how specific goal constraints modulate adaptive brain and behavioral processes during complex cognitive tasks.
 
 --- 
 
-## 🔄 Modeling Pipeline
+##  Modeling Pipeline
 
 Our methodology follows a sequential approach with *two distinct phases* to capture different aspects of cognitive adaptation:
 
@@ -56,7 +56,7 @@ Our methodology follows a sequential approach with *two distinct phases* to capt
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### Dual-Task Experimental Paradigm
 
@@ -94,7 +94,7 @@ Feedback presentation (1500ms)
   - Participants: 21
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```plaintext
 
@@ -118,7 +118,7 @@ Feedback presentation (1500ms)
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 We thank all study participants and partner research institutions for their support in developing this project.
 
